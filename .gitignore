@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+.*
+db-*
+akiatamusic/settings/local.py
